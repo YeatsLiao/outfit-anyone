@@ -1,5 +1,5 @@
 # outfit-anyone
-[English](https://github.com/ihmily/outfit-anyone/blob/main/README.md)  | [简体中文](https://github.com/ihmily/outfit-anyone/blob/main/README_CN.md)
+[English](https://github.com/YeatsLiao/outfit-anyone/blob/main/README.md)  | [简体中文](https://github.com/YeatsLiao/outfit-anyone/blob/main/README_CN.md)
 
 Outfit Anyone (Latest Fixed Version): Ultra-high quality virtual try-on for Any Clothing and Any Person
 

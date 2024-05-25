@@ -1,5 +1,5 @@
 # outfit-anyone
-[English](https://github.com/ihmily/outfit-anyone/blob/main/README.md)  | [简体中文](https://github.com/ihmily/outfit-anyone/blob/main/README_CN.md)
+[English](https://github.com/YeatsLiao/outfit-anyone/blob/main/README.md)  | [简体中文](https://github.com/YeatsLiao/outfit-anyone/blob/main/README_CN.md)
 
 Outfit Anyone（最新修复版）：适用于任何服装和任何人的超高品质虚拟试穿
 
