@@ -6,6 +6,8 @@ from gradio_client import Client
 
 machine_number = 0
 model = os.path.join(os.path.dirname(__file__), "models/eva/Eva_0.png")
+# Setting the API address
+os.environ['OA_IP_ADDRESS'] = 'https://humanaigc-outfitanyone.hf.space/--replicas/adoil/'
 url = os.environ['OA_IP_ADDRESS']
 print("API:", url)
 client = Client(url)
