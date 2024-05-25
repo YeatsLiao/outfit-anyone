@@ -22,10 +22,16 @@ cd outfit-anyone
 pip install -r requirements.txt
 ```
 
-**Set up the environment variable**
+**Linux environment setting environment variables (important)**
 
 ```
-export OA_IP_ADDRESS=https://humanaigc-outfitanyone.hf.space/--replicas/5eyuf/
+export OA_IP_ADDRESS=https://humanaigc-outfitanyone.hf.space/--replicas/adoil/
+```
+
+**Windows environment setting environment variables (important)**
+
+```
+set OA_IP_ADDRESS=https://humanaigc-outfitanyone.hf.space/--replicas/adoil/
 ```
 
 Run
@@ -44,7 +50,15 @@ Running on local URL:  http://127.0.0.1:6006
 
 Please visit http://127.0.0.1:6006 to web. 
 
-If the `OA_IP_ADDRESS` becomes invalid and causes issues with normal operation, please contact me for an update, or visit [OutfitAnyone - a Hugging Face Space by HumanAIGC](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone) to obtain it yourself.
+If the `OA_IP_ADDRESS` becomes invalid and causes issues with normal operation, please contact me for an update, 
+
+or visit [OutfitAnyone - a Hugging Face Space by HumanAIGC](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone) to obtain it yourself.
+
+Fill in the API address in the `OA_IP_ADDRESS` variable in `app.py`.
+
+![Snipaste_2024-05-25_20-32-01.png](images%2FSnipaste_2024-05-25_20-32-01.png)
+
+![Snipaste_2024-05-25_20-30-53.png](images%2FSnipaste_2024-05-25_20-30-53.png)
 
 ## View Results
 

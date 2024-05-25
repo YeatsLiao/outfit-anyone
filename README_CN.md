@@ -22,10 +22,15 @@ cd outfit-anyone
 pip install -r requirements.txt
 ```
 
-**设置环境变量（重点）**
+**Linux环境下设置环境变量（重点）**
 
 ```
 export OA_IP_ADDRESS=https://humanaigc-outfitanyone.hf.space/--replicas/5eyuf/
+```
+
+**Windows环境下设置环境变量（重点）**
+```
+set OA_IP_ADDRESS=https://humanaigc-outfitanyone.hf.space/--replicas/adoil/
 ```
 
 运行
@@ -42,8 +47,15 @@ Loaded as API: https://humanaigc-outfitanyone.hf.space/--replicas/5eyuf/ ✔
 Running on local URL:  http://127.0.0.1:6006
 ```
 
-如果 `OA_IP_ADDRESS` 失效导致无法正常运行，请联系我更新 或者 访问[OutfitAnyone - a Hugging Face Space by HumanAIGC](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone) 自行获取。
+如果 `OA_IP_ADDRESS` 失效导致无法正常运行，请联系我更新 
 
+或者 访问[OutfitAnyone - a Hugging Face Space by HumanAIGC](https://huggingface.co/spaces/HumanAIGC/OutfitAnyone) 自行获取。
+
+将API地址填入 `app.py` 中的 `OA_IP_ADDRESS` 变量中。
+
+![Snipaste_2024-05-25_20-32-01.png](images%2FSnipaste_2024-05-25_20-32-01.png)
+
+![Snipaste_2024-05-25_20-30-53.png](images%2FSnipaste_2024-05-25_20-30-53.png)
 
 
 ## 演示结果
